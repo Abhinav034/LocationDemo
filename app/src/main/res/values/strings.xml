@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationDemo</string>
+    <string name="warning_txt">permission is mandatory</string>
+    <string name="settings">settings</string>
+</resources>
